@@ -1,29 +1,28 @@
-## ⚡ System Architect & Quantitative Developer
+# ⚡ Sovereign Capital Engineer | byQxo
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F78166&center=true&vCenter=true&width=500&lines=Building+Industrial-Grade+Trading+Engines;Smart+Money+Concepts+(SMC)+Protocols;Ding+Huo+Architecture+Activated" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=C9D1D9&center=true&vCenter=true&width=500&lines=BANYAN_KERNEL_ACTIVATE;SMC.PROTOCOL_ENGINEERING;[STATUS]_PRE-FLIGHT_CHECK" alt="Typing SVG" />
 </div>
+
+> **“简单交易。”**
+>
+> *"Decoupling assets from human error via sovereign code. Bridging algorithmic precision with chaotic liquidity pools. Focusing on high-fidelity market execution and low-entropy state management."*
 
 ---
 
-### 🛡️ Core Infrastructure & Arsenal
-> *"In the dark forest of financial markets, code is the only truth."*
+### ⚔️ Architectural Pillars & Technology Stack
 
-* **Main Engine:** `Golang`
-* **Data Persistence:** `SQLite` / `PostgreSQL`
-* **Quantitative Logistics:** `REST API Pagination` / `WSS Datafeed`
-* **Algorithmic Core:** `FVG Detection` / `Liquidity Sweep` / `SMC`
+```go
+package pillars
 
-### 📊 Telemetry & System Status
+// Core Architecture
+var Kernel = Tech{
+    Engine: "Golang", // High-performance concurrency, minimal footprint
+    Ledger: "SQLite / PostgreSQL", // Native persistence, atomic integrity
+}
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byQxo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=F78166" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byQxo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
----
-
-### ⚙️ Current Protocol: [Kgod]
-Building a high-frequency, SMC-driven quantitative trading mech.
-* **Phase:** Live API Plumbing & Datafeed Engineering.
-* **Status:** `[■■■■■■■■□□] 80% - Online & Expanding`
+// Dataflow & Alpha Generation
+var Intelligence = Tech{
+    Logistics: []string{"REST Pagination", "WSS Datafeed Pump"},
+    Alpha:     []string{"SMC (Smart Money Concepts)", "FVG (Fair Value Gap)"},
+}
