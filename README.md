@@ -7,7 +7,8 @@
 ---
 
 ### 🛡️ Core Infrastructure & Arsenal
-> *"In the dark forest of financial markets, code is the only truth."*
+> *"简单交易者."*
+> *"simple trader."*
 
 * **Main Engine:** `Golang`
 * **Data Persistence:** `SQLite` / `PostgreSQL`
@@ -17,15 +18,12 @@
 ### 📊 Telemetry & System Status
 
 <div align="center">
-<img height="185em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DbyQxo%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3DF78166%26icon_color%3DF78166%26text_color%3DC9D1D9" />
-<img height="185em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DbyQxo%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3DF78166%26text_color%3DC9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byQxo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=F78166" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byQxo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
 
 ### ⚙️ Current Protocol: [Kgod / BanyanBot]
-$ tail -f /var/log/banyan_kernel.log
-[INFO] [BANYAN_KERNEL] SQLite persistence layer initialized. ON_CONFLICT Upsert activated.
-[WARN] [DATA_FEED] Binance API 1500 limit history sync pending (Plumbing fix).
-[STATUS] [ALPHA_ENGINE] SMC/FVG detector tuned. Confidence threshold: 0.85.
-[SYSTEM] Current State: Basebase Engineering Complete. Pre-Flight Check.
+Building a high-frequency, SMC-driven quantitative trading mech.
+* **Phase:** Live API Plumbing & Datafeed Engineering.
