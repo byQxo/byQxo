@@ -1,7 +1,7 @@
 # ⚡ System Architect & Quantitative Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F78166&center=true&vCenter=true&width=500&lines=Building+Industrial-Grade+Trading+Engines;Smart+Money+Concepts+(SMC)+Protocols;Ding+Huo+Architecture+Activated" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F78166&center=true&vCenter=true&width=500&lines=Building+Industrial-Grade+Trading+Engines;Smart+Money+Concepts+(SMC)+Protocols;0-1+Architecture+Activated" alt="Typing SVG" />
 </div>
 
 ---
