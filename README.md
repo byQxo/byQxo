@@ -1,29 +1,29 @@
-# ⚡ System Architect & Quantitative Developer
+# Hi, I'm Rongsheng  榕生 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F78166&center=true&vCenter=true&width=500&lines=Building+Industrial-Grade+Trading+Engines;Smart+Money+Concepts+(SMC)+Protocols;0-1+Architecture+Activated" alt="Typing SVG" />
-</div>
+I am a secondary vocational school student from China, majoring in Computer / Information Technology.
 
----
+I am interested in:
+- Go backend development
+- Python automation
+- Quantitative trading tools
+- AI-assisted software systems
+- Self-hosted applications
 
-### 🛡️ Core Infrastructure & Arsenal
-> *"简单交易者."*
-> *"simple trader."*
+## Main Projects
 
-* **Main Engine:** `Golang`
-* **Data Persistence:** `SQLite` / `PostgreSQL`
-* **Quantitative Logistics:** `REST API Pagination` / `WSS Datafeed`
-* **Algorithmic Core:** `FVG Detection` / `Liquidity Sweep` / `SMC`
+### nofxCG
+A self-hosted, security-focused fork of NOFX.  
+I worked on offline admin login, local key management, encrypted configuration storage, Docker deployment, and documentation.
 
-### 📊 Telemetry & System Status
+Tech stack: Go, React, Docker, SQLite/PostgreSQL
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byQxo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=F78166" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byQxo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
+### BanyanBot
+An experimental quantitative trading engine written in Go.  
+It focuses on market data collection, strategy testing, risk configuration, and future live-trading infrastructure.
 
----
+Tech stack: Go, SQLite, REST API, WebSocket
 
-### ⚙️ Current Protocol: [Kgod / BanyanBot]
-Building a high-frequency, SMC-driven quantitative trading mech.
-* **Phase:** Live API Plumbing & Datafeed Engineering.
+## Current Goals
+- Improve my English for studying in Singapore
+- Build a stronger computer science portfolio
+- Learn backend engineering and quantitative system design
