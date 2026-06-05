@@ -1,4 +1,4 @@
-# Hi, I'm Rongsheng  榕生 👋
+# Hi, I'm Rongsheng  👋
 
 I am a secondary vocational school student from China, majoring in Computer / Information Technology.
 
