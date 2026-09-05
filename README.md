@@ -46,10 +46,11 @@ Visit the live site: [download.yudidc.cc](https://download.yudidc.cc/)
 
 ## GitHub activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=byQxo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Koraro's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byQxo&layout=compact&theme=transparent&hide_border=true" alt="Koraro's top languages" />
-</div>
+<p>
+  <a href="https://github.com/byQxo?tab=followers"><img src="https://img.shields.io/github/followers/byQxo?style=for-the-badge&label=Followers" alt="Koraro's GitHub followers" /></a>
+  <a href="https://github.com/byQxo/codex-download-guide/stargazers"><img src="https://img.shields.io/github/stars/byQxo/codex-download-guide?style=for-the-badge&label=Project%20stars" alt="Codex Download Guide stars" /></a>
+  <a href="https://github.com/byQxo/codex-download-guide/commits/main/"><img src="https://img.shields.io/github/last-commit/byQxo/codex-download-guide?style=for-the-badge" alt="Latest project commit" /></a>
+</p>
 
 ## 中文简介
 
